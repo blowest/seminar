@@ -26,9 +26,12 @@
 
 4. **순환대기(Circular-Wait)**  
 각 프로세스가 꼬리를 물며 자원을 점유하고 있어야 한다.
-![순환대기](https://4.bp.blogspot.com/-8QcCWBZpkxE/WPyqwK8T5KI/AAAAAAAABIw/0xudTPUh514WIEhkSEhuvGZK4GSchzz6gCLcB/s1600/deadlock03.png)
 <br/>
 <br/>
+<p align="center"><img src="https://4.bp.blogspot.com/-8QcCWBZpkxE/WPyqwK8T5KI/AAAAAAAABIw/0xudTPUh514WIEhkSEhuvGZK4GSchzz6gCLcB/s1600/deadlock03.png"></p>
+<br/>
+<br/>
+
 
 ### 교착상태 해결 방안
 1. 교착상태 예방 
