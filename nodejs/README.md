@@ -83,3 +83,5 @@ Typescript 기반의 OOP(Object Oriented Programming), FP(Functional Programming
 NestJS는 효율적(efficient)이면서, 규모 가변성(scalable)을 지닌 NodeJS 프레임워크라고 합니다.
 
 참고 - [NestJs API만들기](https://velog.io/@suasue/NestJS-%EC%B4%88%EA%B8%B0-%EC%84%B8%ED%8C%85)
+
+TypeORM, GraphQL, crypto, 데코레이터(어노테이션)
