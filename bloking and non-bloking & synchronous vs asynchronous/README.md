@@ -24,6 +24,7 @@
 * 요청의 결과값이 return값과 동일
 * 호출한 함수가 직접 완료를 신경씀
 <p align="center"><img src=images/동기.png><p>
+
 #### Asynchronous
 * 작업 요청을 했을 때 요청의 결과값을 간접적으로 받음
 * 요청의 결과값이 return값과 다를 수 있음
