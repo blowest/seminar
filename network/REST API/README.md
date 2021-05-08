@@ -62,11 +62,11 @@
 
 ## Example
 1. [HTTP Request Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-![](REST%20API/Screen%20Shot%202021-05-08%20at%2012.08.23%20AM.png)
+![](img/Screen%20Shot%202021-05-08%20at%2012.08.23%20AM.png)
 
 2.   [HTTP Response Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-![](REST%20API/Screen%20Shot%202021-05-08%20at%2012.09.36%20AM.png)
-![](REST%20API/Screen%20Shot%202021-05-08%20at%2012.09.52%20AM.png)
+![](img/Screen%20Shot%202021-05-08%20at%2012.09.36%20AM.png)
+![](img/Screen%20Shot%202021-05-08%20at%2012.09.52%20AM.png)
 
 ## Reference
 * https://velog.io/@jch9537/URI-URL
