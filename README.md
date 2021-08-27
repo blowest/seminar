@@ -30,8 +30,30 @@ _Seminar 자료_
 4. [DNS Round Robin](./network/DNS%20round%20robin)
 5. [REST API](./network/REST%20API)
 
-## Language
+## 💡 Programming Paradigm
+1. [Programming Paradigm](./programming%20paradigm)
+1. [OOP (Object Oriented Programming)](./programming%20paradigm/object-oriented%20programming)
+
+## 💡 Programming
+1. [Lazy Evaluation](./programming/Lazy%20Evaluation)
+2. [ORM (Object Relational Mapping)](./programming/ORM)
+3. [ORM & Lazy Loading](./programming/ORM/Lazy%20Loading)
+4. [Blocking & NonBlocking & Sync & Async](/bloking%20and%20non-bloking%20&%20synchronous%20vs%20asynchronous)
+
+## 💡 Design Pattern
+1. [Architectural Pattern](./Software%20Design%20Pattern/01.%20Architectural%20Pattern.md)
+2. [MVC](Software%20Design%20Pattern/02.%20Model%20-%20View%20-%20Controller.md)
+3. [MVP](Software%20Design%20Pattern/03.%20Model%20-%20View%20-%20Presenter.md)
+4. [MVVM](Software%20Design%20Pattern/04.%20Model%20-%20View%20-%20ViewModel.md)
+
+## 💡 Language
 1. [Node.js](./nodejs)
-## 분야별
+2. [React.js](./React)
+
+
+
+
+
+
 ## Reference
 * https://github.com/JaeYeopHan/Interview_Question_for_Beginner
