@@ -8,7 +8,7 @@ _Seminar 자료_
 
 ## 💡 Database
 1. [Database](./database/database)
-2. [Index](./database/Index.md)
+2. [Index](./database/database/Index.md)
 3. [Normalization](./database/normalization)
 3. [Transaction](./database/transaction)
 5. [NoSQL](./database/nosql)
